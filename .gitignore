@@ -17,3 +17,14 @@ TemporaryGeneratedFile_*
 *.vcxproj.user
 *.db
 *.opendb
+*.DS_Store
+
+PcapDotNet/src/.vs/
+
+PcapDotNet/src/PcapDotNet.Base/bin/
+
+PcapDotNet/src/PcapDotNet.Base/obj/
+
+PcapDotNet/src/PcapDotNet.Packets/bin/
+
+PcapDotNet/src/PcapDotNet.Packets/obj/
